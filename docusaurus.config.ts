@@ -8,10 +8,10 @@ const config: Config = {
   favicon: "img/favicon.ico",
 
   // Set the production url of your site here
-  url: "https://squarra.github.io/mva-edge-ai-docs/",
+  url: "https://squarra.github.io/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/",
+  baseUrl: "/mva-edge-ai-docs/",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
