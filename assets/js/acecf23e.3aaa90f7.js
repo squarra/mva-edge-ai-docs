@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmva_edge_ai_docs=self.webpackChunkmva_edge_ai_docs||[]).push([[1903],{1912:e=>{e.exports=JSON.parse('{"blogBasePath":"/mva-edge-ai-docs/blog","blogTitle":"Blog"}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmva_edge_ai_docs=self.webpackChunkmva_edge_ai_docs||[]).push([[7012],{8024:a=>{a.exports=JSON.parse('{"label":"hola","permalink":"/mva-edge-ai-docs/blog/tags/hola","allTagsPath":"/mva-edge-ai-docs/blog/tags","count":1,"unlisted":false}')}}]);

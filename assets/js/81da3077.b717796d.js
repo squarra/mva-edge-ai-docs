@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmva_edge_ai_docs=self.webpackChunkmva_edge_ai_docs||[]).push([[8960],{109:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/mva-edge-ai-docs/blog/tags/docusaurus","allTagsPath":"/mva-edge-ai-docs/blog/tags","count":4,"unlisted":false}')}}]);
